@@ -16,12 +16,12 @@ This repository includes a variety of C projects covering topics such as **data 
    - Uses random number generator to find the path the drunk man completes before collpasing.
      
 4. **Maze Path Finder**
-   -Uses Key and Doors to complete a maze from start to end.
+    - Uses Key and Doors to complete a maze from start to end.
   
-6. **Matrix Free Area**
-   -Represents space for navigation and wall with 0 and 1 to complete a maze.
+5. **Matrix Free Area**
+    - Represents space for navigation and wall with 0 and 1 to complete a maze.
   
-8. **Traffic Light**
+6. **Traffic Light**
    - Includes implementations of traffic light for vehicle movement in a path.
      
    
